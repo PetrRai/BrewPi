@@ -1,4 +1,3 @@
-
 Odkaz na projekt: https://www.brewpi.com/
 
 Postup práce
@@ -12,7 +11,7 @@ Postup práce
 2. Co je zapotřebí?
 
 -Arduino
--RaspberryPi
+<b>-RaspberryPi</b>
 -Relays (relé)
 -Temperature Sensors (senzory teploty)
 -Cooling device (chladící zařízení)
