@@ -4,21 +4,21 @@
 
 <h4>1. Sbírání informací</h4>
 
--http://www.homebrewtalk.com/showthread.php?t=466106
--http://homebrewacademy.com/brewpi-primer/
--https://www.youtube.com/watch?v=OeVKxg8NP_I
+<p>-http://www.homebrewtalk.com/showthread.php?t=466106</p>
+<p>-http://homebrewacademy.com/brewpi-primer/</p>
+<p>-https://www.youtube.com/watch?v=OeVKxg8NP_I</p>
 
-2. Co je zapotřebí?
+<h4>2. Co je zapotřebí?</h4>
 
 -Arduino
-<b>-RaspberryPi</b>
--Relays (relé)
--Temperature Sensors (senzory teploty)
--Cooling device (chladící zařízení)
--Heating device (zahřívací zařízení)
+<p>-RaspberryPi</p>
+<p>-Relays (relé)</p>
+<p>-Temperature Sensors (senzory teploty)</p>
+<p>-Cooling device (chladící zařízení)</p>
+<p>-Heating device (zahřívací zařízení)</p>
 
-3. Software
+<h4>3. Software</h4>
 
--Nainstalování VirtualBoxu (Hotovo)
--Nainstalování Ubuntu (Hotovo)
--Nainstalování programu RaspberryPi ()
+<p>-Nainstalování VirtualBoxu (Hotovo)</p>
+<p>-Nainstalování Ubuntu (Hotovo)</p>
+<p>-Nainstalování programu RaspberryPi ()</p>
