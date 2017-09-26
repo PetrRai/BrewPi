@@ -17,8 +17,12 @@
 <p>-Cooling device (chladící zařízení)</p>
 <p>-Heating device (zahřívací zařízení)</p>
 
-<h4>3. Software</h4>
+<h4>3. Hardware</h4>
 
-<p>-Nainstalování VirtualBoxu (Hotovo)</p>
-<p>-Nainstalování Ubuntu (Hotovo)</p>
+
+
+<h4>4. Software</h4>
+
+<p>-Nainstalování VirtualBoxu (Hotovo) - https://www.virtualbox.org/</p>
+<p>-Nainstalování Ubuntu (Hotovo) - https://www.ubuntu.com/download</p>
 <p>-Nainstalování programu RaspberryPi ()</p>
