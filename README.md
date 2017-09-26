@@ -1,8 +1,8 @@
-Odkaz na projekt: https://www.brewpi.com/
+<h2>Odkaz na projekt: https://www.brewpi.com/</h2>
 
-Postup práce
+<h3>Postup práce</h3>
 
-1. Sbírání informací
+<h4>1. Sbírání informací</h4>
 
 -http://www.homebrewtalk.com/showthread.php?t=466106
 -http://homebrewacademy.com/brewpi-primer/
