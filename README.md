@@ -25,4 +25,4 @@
 
 <p>-Nainstalování VirtualBoxu (Hotovo) - https://www.virtualbox.org/</p>
 <p>-Nainstalování Ubuntu (Hotovo) - https://www.ubuntu.com/download</p>
-<p>-Nainstalování programu RaspberryPi ()</p>
+<p></p>
